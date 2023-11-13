@@ -1,4 +1,4 @@
-package com.jetbrains.simplelogin.androidapp.data
+package com.emrys.shared.data
 
 /**
  * A generic class that holds a value with its loading status.
